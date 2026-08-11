@@ -1,0 +1,108 @@
+/* #x{
+    color:brown
+}
+p{
+    color: blueviolet;
+}
+.y{
+    color: aqua;
+}
+div.y{
+    color: cadetblue;
+} */
+/* p{ */
+    /* color:#16679e; */
+    /* color: rgb(255,0,0); */
+    /* color: rgba(); */
+    /* left right center */
+    /* text-align: justify;
+    text-align-last: center; */
+/* } */
+/* .img-container{
+    text-align: center;
+} */
+/* p{ */
+    /* text-align: center; */
+    /* lowercase uppercase capitalize none*/
+    /* text-transform: capitalize;
+    text-indent: 10px;
+    letter-spacing: 1px;
+    word-spacing: 15px;
+    line-height: 30px;
+} */
+ /* @import url('https://fonts.googleapis.com/css2?family=Rubik+Spray+Paint&display=swap'); */
+
+*{
+    line-height: 1.2;
+    letter-spacing: 0.1rem;
+    /* direction: ltr; */
+      /* font-family: "Rubik Spray Paint", system-ui; */
+
+}
+/* p{
+    text-align: center; */
+    /* color: white;
+    text-shadow: 0px 0px 0.2rem red; */
+  /* text-decoration: underline dotted red; */
+  /* underline line-through over-line */
+  /* text-decoration-line: underline;
+  text-decoration-color: red; */
+  /* dotted solid none dashed groove  */
+  /* text-decoration-style: dashed;
+  text-decoration-thickness: 6px;
+  text-underline-offset: 15px; */
+  /* font-size: 1rem;
+  font-style: italic;
+  font-weight: 800;
+} */
+/* body{
+    height: 3000px;
+} */
+/* div{ */
+    /* background-color: rgb(89, 89, 141); */
+    /* background-image: url(../images/bg.jpg); */
+    /* background-size: 100% 100%; */
+    /* background-size: contain; */
+    /* background-image: url(../images/i.avif); */
+    /* background-size: contain; */
+    /* background-size: 10px 10px; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* background-attachment: fixed; */
+/* }
+div p{
+        background-color: rgba(255,0,0,0.2);
+} */
+
+/* div{ */
+    /* height: 15rem; */
+    /* height: 3rem;
+    line-height: 1rem; */
+    /* width: 50%; */
+    /* background-color: aquamarine;
+    max-width: 30%;
+    overflow: hidden;
+} */
+
+.full-width{
+    width: 100%;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    /* background-color: red;
+    height: 15rem; */
+}
+.center{
+    text-align: center;
+}
+.article-card{
+    width: 30%;
+    overflow: hidden;
+    box-shadow: 0 0 3px gray;
+}
+.article-card p{
+    line-height: 1.2rem;
+    height: 4.8rem;
+    overflow: hidden;
+}
