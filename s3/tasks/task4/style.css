@@ -1,0 +1,22 @@
+
+        .facts{
+            background: url(iconn.jpeg),rgba(0, 80, 255, .5);
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            font-family: 'Trebuchet MS';
+            width: 70%;
+            height: 32rem;
+        }
+        .container {
+            background-color: rgba(0, 89, 255, 0.75);
+            height: 100%;
+            text-align: center;
+            color: white;
+        }
+        .container img{
+        width: 18%;
+        margin-top: 10%;
+        margin-left: 3%;
+        }
+
