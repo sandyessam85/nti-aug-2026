@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+
+.article-card {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    min-height: 40rem;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    width: 10rem;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
