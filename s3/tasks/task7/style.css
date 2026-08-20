@@ -1,0 +1,106 @@
+.col-6{
+    align-items: center;
+    padding: 2%;
+}
+.logo{
+    width: 15%;
+}
+.welcome{
+    color: rgb(244, 193, 98);
+    margin-left: 11%;
+}
+.text{
+    display: inline-block;
+    justify-content: space-between;
+    margin-right: 33%;
+    color: grey;
+}
+.card-orange{
+    border: 1px solid rgb(202, 153, 63);
+    width: 100%;
+}
+.card-body{
+    padding: 2%;
+}
+.btn-orange{
+    color: orange;
+    background-color: white;
+    border: none;
+    text-decoration: none;
+}
+.icon{
+    color: white;
+    background-color: orange;
+    border-radius: 2%;
+    padding: 2%;
+    display: inline-block;
+}
+.text-file{
+ color: white;
+    background-color:black;
+    border-radius: 2%;
+    padding: 2%;
+    display: inline-block;
+}
+.btn-black{
+    color:black;
+    background-color: white;
+    border: none;
+    text-decoration: none;
+}
+.card-black{
+    width: 100%;
+     border: 1px solid rgb(15, 10, 0);
+     padding: 4%;
+}
+.login{
+    margin-top: 5%;
+}
+.btn{
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+}
+.or, .new{
+    text-align: center;
+    margin-top: 4%;
+}
+
+.gmail{
+    display: block;
+    text-align: center;
+    margin-top: 2%;
+    padding: 1%;
+    border: 1px solid lightgray;
+    text-decoration: none;
+    color: black;
+}
+
+.gmail img{
+    width: 12%;
+}
+
+.new span{
+    color: orangered;
+}
+.h-25 p{
+    color: rgb(181, 71, 13);
+}
+.h-25{
+color: white;
+margin-top: -40%;
+width: 100%;
+}
+.profile{
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+}
+ .profile img{
+width: 50%;
+}
+.profile-text p{
+    margin-left: 1%;
+    color: beige;
+}
